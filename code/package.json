@@ -1,0 +1,24 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AutomaticPractice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoffarLevi/Final-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoffarLevi/Final-Project/issues"
+  },
+  "homepage": "https://github.com/NoffarLevi/Final-Project#readme",
+  "dependencies": {
+    "firebase": "^8.2.10",
+    "firebase-admin": "^9.5.0",
+    "firebase-tools": "^9.6.0"
+  }
+}
